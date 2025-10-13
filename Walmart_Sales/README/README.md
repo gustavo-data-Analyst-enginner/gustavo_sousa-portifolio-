@@ -14,7 +14,7 @@ Identificar quais lojas possuem maior volume de vendas
 
  - Fonte dos Dados
 
-[Walmart Sales Forecasting – Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
+[Walmart Sales – Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)
 
 > Os nomes das colunas foram traduzidos para o português durante o processo de análise.
 
@@ -110,4 +110,5 @@ GitHub - versionamento e portfólio do projeto
 - Conclusão
 
 O projeto permitiu identificar padrões sazonais, crescimento de vendas e a relação entre clima e desempenho das lojas.
+
 Os resultados podem apoiar decisões estratégicas sobre estoque, marketing e previsão de demanda.
