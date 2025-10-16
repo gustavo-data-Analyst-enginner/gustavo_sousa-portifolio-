@@ -14,7 +14,7 @@ Banco de Dados: PostgreSQL, SQLite
 
 Análise e Visualização: Power BI, Excel
 
-Outros: Git, GitHub, Pandas, NumPy
+Outros:Git, GitHub, Pandas, NumPy
 
  Objetivo
 
